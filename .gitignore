@@ -1,0 +1,47 @@
+###################### OSX ########################
+.DS_Store
+
+# install module
+install/
+
+# config file
+/config.php
+admin/config.php
+
+# cache
+#system/cache/*
+#!system/cache/index.html
+
+# cache
+#system/logs/*
+#!system/logs/index.html
+
+# cache
+#system/upload/*
+#!system/upload/index.html
+#image/cache/*
+#!image/cache/index.html
+
+
+# IDEs
+/.idea/
+.jshintrc
+
+
+###################### WINDOWS #####################
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
