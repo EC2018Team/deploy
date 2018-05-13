@@ -2,7 +2,7 @@
 .DS_Store
 
 # install module
-install/
+#install/
 
 # config file
 /config.php
